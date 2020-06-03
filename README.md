@@ -1,1 +1,4 @@
 # Apache-Spark-BigData-Projects
+Python, the Spark Python API (PySpark) have been explored to access the power of  popular big data platform. This practical, hands-on project demonstrate the expertise in PySpark, explaining what it has to offer and how it can enhance data science work with Spark ecosystem, detailing its advantages over other data science platforms, APIs, and tool sets. Solves Big Data(Crime  History in Chicago) prediction challenge using google cloud platform, DataFrame API, Resilient Distributed Datasets (RDDs), the building blocks of Spark.
+This project explores the Benefits of the Apache Spark ecosystem, Working with the DataFrame API, Working with columns and rows, Leveraging built-in Spark functions, Creating own functions in Spark, Working with Resilient Distributed Datasets (RDDs), 
+Apache Machine Learning Lib.
